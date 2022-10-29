@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+	font-family: arial, sans-serif;
+	font-size: 15px;
+	color: rgb(244, 230, 230);
+	line-height: 1.5;
+	font-family: Arial sans-serif;
+}
+.page {
+	width: 800px;
+	margin: 20px auto;
+	background-color: rgba(255, 255, 255, 0.958);
+}
+.header {
+	padding: 30px;
+	background-color: rgb(0, 0, 0);
+	text-align: center;
+}
+.header-title {
+	margin: 0px;
+	font-size: 16px;
+	color: rgba(239, 235, 230, 0.872);
+	text-align: center;
+}
+/* nav */
+.nav {
+	text-align: center;
+}
+
+.nav-link {
+	display: inline-block;
+	padding: 8px 12px;
+	text-decoration: none;
+	color: black;
+}
+.nav-link:hover {
+	background-color: rgb(206, 199, 199);
+}
+.chrysler-foto {
+	width: 800;
+}
+
+/* Content */
+.content {
+	padding: 20px;
+}
+
+.content-title {
+	color: rgb(3, 1, 1);
+	font-size: 24px;
+}
